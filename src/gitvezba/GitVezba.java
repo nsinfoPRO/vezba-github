@@ -16,6 +16,7 @@ public class GitVezba {
      */
     public static void main(String[] args) {
         System.out.println("sadasdas");
+        System.out.println("dddd");
     }
     
 }
